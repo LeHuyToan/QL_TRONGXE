@@ -8,7 +8,7 @@ package controller;
  *
  * @author Toan
  */
-public class controller {
+public class DBEngine {
 
     /**
      * @param args the command line arguments
